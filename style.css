@@ -521,7 +521,7 @@ hr {
 }
 
 .productImg img {
-  height: 200px;
+/*   height: 200px; */
   border-radius: 0.5rem;
   /* margin: 0 auto; */
   display: block;
